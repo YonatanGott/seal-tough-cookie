@@ -1,0 +1,13 @@
+{
+  "name": "seal-tough-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "npm install tough-cookie@2.5.0 && node index.js",
+    "patch": "npm install ./tough-cookie-2.5.0.tgz && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
